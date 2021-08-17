@@ -1,7 +1,7 @@
 - ✨I’m @millen2223
 
-[![Millen2223's GitHub stats](https://github-readme-stats.vercel.app/api?username=millen2223)](https://github.com/millen2223/github-readme-stats&show_icons=true&theme=radical)
-)
+[![Millen2223's GitHub stats](https://github-readme-stats.vercel.app/api?username=millen2223)](https://github.com/millen2223/github-readme-stats)
+
 
 <!---
 millen2223/millen2223 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
