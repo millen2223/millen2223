@@ -1,6 +1,6 @@
 - ✨I’m @millen2223
 
-[![Millen2223's GitHub stats](https://github-readme-stats.vercel.app/api?username=millen2223)](https://github.com/millen2223/github-readme-stats)
+[![Millen2223's GitHub stats](https://github-readme-stats.vercel.app/api?username=millen2223&show_icons=true&theme=radical)](https://github.com/millen2223/github-readme-stats)
 
 
 <!---
