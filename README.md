@@ -1,8 +1,12 @@
-- ✨I’m @millen2223
+Hi, ✨I’m @millen2223
+![image](https://user-images.githubusercontent.com/87771278/129767529-40eec37a-2171-4055-a566-2f2c244a0087.png)
 
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=millen2223&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/millen2223/github-readme-stats)"
-[![Millen2223's GitHub stats](https://github-readme-stats.vercel.app/api?username=millen2223&show_icons=true&theme=tokyonight)](https://github.com/millen2223/github-readme-stats)"
+<a href="https://github.com/millen2223/">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=millen2223&&show_icons=true&theme=tokyonight"
+     />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=millen2223&layout=compact&show_icons=true&theme=tokyonight" 
+     />
+ <a/>
 
 
 
